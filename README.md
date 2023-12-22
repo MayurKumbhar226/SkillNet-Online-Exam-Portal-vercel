@@ -42,18 +42,18 @@
 
 <!-- Features -->
 ### :dart: Features
-
-- Student User
-  - View Tests Details
-  - Register for test
-  - Give Test
-  - Check Result and correct answer and explanation for questions
-- Teacher User
-  - Create, Update Questions and Question Banks
-  - Create, View Test
-- Admin User
-  - Create and Manage Teacher users
-  - Create and Manage subjects
+Student User
+    View Tests Details
+    Register for test
+    Give Test
+    Check Result and correct answer and explanation for questions
+    Teacher User
+    Create, Update Questions and Question Banks
+    Create, View Test
+    
+Admin User
+   Create and Manage Teacher users
+   reate and Manage subjects
 
 
 <!-- Env Variables -->
